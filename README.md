@@ -1,10 +1,12 @@
 # SaturnVOrbit
 
 This is a project I completed as a semester project for a 
-university computer graphics course.
+university computer graphics course.  It is a 3D scene of the 
+Saturn V rocket in orbit around the moon that implements
+the Three.js graphics library to create the scene
+using imported models in a web browser.  A user has the ability
+to orbit around the scene using a mouse to change the view.
 
-The project uses three.js with imported models created with Blender
-to shape a 3D scene of the Saturn V rocket orbiting around the moon.
-
-Any user wishing to run the program might have to run it through a
-php localhost server.
+An mp4 demo of the web application can be found at
+https://github.com/ahunt2/SaturnVOrbit/blob/main/SatV.mov
+for download.
